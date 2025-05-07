@@ -1,6 +1,6 @@
 # AWS Event-Driven Order Notification System
 
-This project implements a simplified backend for an e-commerce platform using **event-driven architecture** in AWS. It processes incoming orders, stores them in DynamoDB, and sends notifications using SNS, SQS, and Lambda.
+This is a simplified backend for an e-commerce platform using **event-driven architecture** in AWS. It processes incoming orders, stores them in DynamoDB, and sends notifications using SNS, SQS, and Lambda.
 
 ---
 
